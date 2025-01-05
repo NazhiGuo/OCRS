@@ -80,11 +80,6 @@ Before you begin, ensure you have met the following requirements:
 
 ![Database Diagram](./website-demo-image/CRSdb.png "Database")
 
----
-
-#### **Course Recommendation System (CRS) Database Architecture:**
-
-![Database Architecture](./website-demo-image/CRS11.png "Database Design")
 
 ---
 
