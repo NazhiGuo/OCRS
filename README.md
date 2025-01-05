@@ -6,13 +6,13 @@ Welcome to the **Online Course Recommendation System**! This project aims to cre
 
 ## 📸 **Demo:**
 
-#### **Client Demo (Desktop View)**
+#### **Client Demo**
 
-![vCard Desktop Demo](./website-demo-image/CRS.png "Client")
+![Client Demo](./website-demo-image/CRS.png "Client")
 
-#### **Admin Demo (Mobile View)**
+#### **Admin Demo**
 
-![vCard Mobile Demo](./website-demo-image/CRSB.png "Admin")
+![Admin Demo](./website-demo-image/CRSB.png "Admin")
 
 ---
 
@@ -83,9 +83,9 @@ Before you begin, ensure you have met the following requirements:
 
 ---
 
-#### **Network Design:**
+#### 🖥️ **Network Design:**
 
 ![Network Diagram](./website-demo-image/network.png "Network")
 
 ---
-"# OCRS" 
+
