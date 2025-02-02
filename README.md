@@ -2,6 +2,12 @@
 
 Welcome to the **Online Course Recommendation System**! This project aims to create an intelligent recommendation system for online education, with a strong focus on AI-driven recommendations and real-time optimizations.
 
+### 😊Learn more about me:
+
+Welcome to my homepage, feel free to click the link below!
+
+[Click here to visit my homepage](http://guonazhi.site)
+
 ---
 
 ## 📸 **Demo:**
